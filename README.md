@@ -1,4 +1,4 @@
-# screenTransition
+# screenTransition 👽
 1. ViewController에서 다른 ViewController를 호출하여 전환 (present)
 2. Navigation Controller를 이용하여 화면 전환
 3. Segueway를 사용하여 화면 전환하기
